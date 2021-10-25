@@ -1,3 +1,3 @@
-# Análise da influência de fatores em ensaios de caracterização magnética
+# Analysis of the factors' influence in magnetic characterisation tests of electrical steels
 
-Análises realizadas a partir da aplicação da técnica de planejamento de experimentos (Design of Experiments - DOE) em ensaios de caracterização magnética. O objetivo foi analisar o efeito de quatro fatores nas medições de perdas totais magnéticas e permeabilidade magnética: direção de laminação, equipamento de teste, frequência do ensaio e classe do aço.
+Analysis through the application of design of experiments (DOE) in magnetic characterisation tests. The main goal was to analyse the influence that 4 factors (test device, steel class, cutting direction and frequency).
